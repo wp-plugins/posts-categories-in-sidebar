@@ -34,7 +34,7 @@ It uses the `is_single()` query in php so that it ONLY shows up on single posts.
 
 Very easy.
 
-1. Upload `post-cat-widget.php` to the `/wp-content/plugins/` directory
+1. Unzip and upload `posts-categories-in-sidebar.1.0.zip` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Place the Widget in your sidebar wherever you desire.
 4. Title it whatever you want.
