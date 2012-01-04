@@ -16,6 +16,8 @@ The categories will be displayed in an unordered list.
 
 You can choose the title for the widget in the sidebar if you wish.
 
+**If you're using the plugin, please drop the link to your blog [here](http://wordpress.org/support/topic/plugin-posts-categories-in-sidebar-using-this-widget).**
+
 Example:
 
 	<li id="cz_post_cat-3" class="widget-container widget_cz_post_cat">
@@ -30,7 +32,6 @@ Example:
 
 It uses the `is_single()` query in php so that it ONLY shows up on single posts. Not pages.
 
-If you're using the plugin, please drop the link to your blog [here](http://wordpress.org/support/topic/plugin-posts-categories-in-sidebar-using-this-widget).
 
 == Installation ==
 
