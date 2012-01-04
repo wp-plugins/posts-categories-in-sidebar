@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Post's Categories in Sidebar
-Plugin URI: #
+Plugin URI: http://wordpress.org/extend/plugins/posts-categories-in-sidebar/
 Description: Displays the Categories for a single post, as a widget.
 Author: Corey Zev
 Version: 1.0
