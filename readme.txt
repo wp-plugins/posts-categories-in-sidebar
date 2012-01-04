@@ -48,7 +48,9 @@ The div's in the widget have been labeld with very easy classes for styling in y
 First version. No questions yet.
 
 If you're using the plugin, please drop the link to your blog [here](http://wordpress.org/support/topic/plugin-posts-categories-in-sidebar-using-this-widget).
+
 1. This enables me to see my widget in use.
+
 2. You get to see demos of it in use. Help the community.
 
 == Screenshots ==
